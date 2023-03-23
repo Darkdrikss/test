@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package cubo;
+//prueba
 
 import java.awt.*;
 import java.awt.event.*;
